@@ -31,6 +31,6 @@ abstract class Person implements IPerson {
                 "Estado: " + state + "\n" +
                 "CEP: " + cep + "\n" +
                 "Descrição: " + description + "\n" +
-                "Competências: " + comp
+                "Competências: " + comp + "\n"
     }
 }
