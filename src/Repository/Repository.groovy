@@ -1,7 +1,7 @@
 package Repository
 
-import model.Candidate
-import model.Company
+import Model.Candidate
+import Model.Company
 
 class Repository {
     static List<Candidate> candidates = []

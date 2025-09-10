@@ -1,7 +1,7 @@
 package Ui
 
-import model.Candidate
-import model.Company
+import Model.Candidate
+import Model.Company
 import Repository.Repository
 
 class Menu {

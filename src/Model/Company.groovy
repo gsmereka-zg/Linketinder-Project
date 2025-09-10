@@ -1,4 +1,4 @@
-package model
+package Model
 
 class Company extends Person {
     String cnpj

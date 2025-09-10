@@ -1,4 +1,4 @@
-package model
+package Model
 
 abstract class Person implements IPerson {
     String name
